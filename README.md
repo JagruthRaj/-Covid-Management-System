@@ -6,7 +6,7 @@ The COVID-19 Management System is a C++ based application designed to manage inf
 
 Files and Directories
 Covid-Management-System.cpp: The main source code file for the application.
-Covid-Management-System.exe: The executable file of the application.
+
 Doctor_Data.dat: Data file containing information about doctors.
 Patient_Data.dat: Data file containing information about patients.
 center1.txt, center2.txt, center3.txt: Text files containing information about different centers.
@@ -31,8 +31,7 @@ After compilation, run the executable:
 
 sh
 Copy code
-./Covid-Management-System  # On Unix-based systems (Linux/Mac)
-Covid-Management-System.exe  # On Windows
+
 Data Files
 Doctor_Data.dat: Contains serialized information about doctors.
 Patient_Data.dat: Contains serialized information about patients.
